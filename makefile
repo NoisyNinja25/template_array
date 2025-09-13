@@ -1,5 +1,5 @@
 build:
-	g++ Array.cpp driver.cpp -o Array
+	g++ Array.h driver.cpp -o Array
 
 run: Array
 	./Array
